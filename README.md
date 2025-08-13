@@ -32,9 +32,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
  
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" aria-label="HTML5" title="HTML5">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
-    </a>
+   
   
   <!-- Other Skills -->
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
