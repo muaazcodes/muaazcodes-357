@@ -1,58 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muaaz Bin Tariq</h1>
-<h3 align="center">🚀 Data Science | AI | ML Engineer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Muaaz Bin Tariq</h1>
+  <p><strong>Data Science | AI & Machine Learning Engineer</strong></p>
+  <p><i>Transforming complex data into actionable intelligence through Scalable AI solutions.</i></p>
+</div>
 
----
-
-### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/muaaz-tariq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/muaaz-tariq"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=muaazcodes&label=Profile%20Views&color=blue&style=for-the-badge" alt="Views">
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+### 🧬 Professional Overview
+- 🔭 **Expertise:** Specializing in Deep Learning, Predictive Modeling, and Data Engineering.
+- 👯 **Collaboration:** Open to high-impact AI/ML projects and research.
+- ⚡ **Focus:** Optimizing algorithms for performance and scalability.
+- 💬 **Key Tech:** Python, Scikit-learn, SQL, and Neural Networks.
+
+---
+
+### 💻 Technical Ecosystem
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Core Languages</strong><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" title="Python"/> &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" title="C++"/> &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" title="Java"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>AI & Data Science</strong><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" title="NumPy"/> &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" title="Pandas"/> &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="35" title="Matplotlib"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Tools & Infrastructure</strong><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" title="MySQL"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" title="Git"/> &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" title="Linux"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity & Impact
 <p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  
-  <!-- Data Science -->
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  
-  <!-- Tools & IDEs -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
- 
-   
-  
-  <!-- Other Skills -->
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muaazcodes&layout=compact&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muaazcodes&theme=transparent&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideLabels=ffffff" width="95%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muaazcodes&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muaazcodes&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-⭐ **Always learning & building cool things with Data Science and AI!** 🚀
-
+<p align="center">🚀 <i>Building the future, one line of code at a time.</i></p>
