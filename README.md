@@ -31,12 +31,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
+  </a></p>
+  
   <img src="https://komarev.com/ghpvc/?username=muaazcodes&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
