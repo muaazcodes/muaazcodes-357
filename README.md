@@ -1,11 +1,6 @@
 # 👨‍💻 Muaaz | Data Science & AI Enthusiast
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=muaazcodes&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
-
 ## 🎯 Profile Overview
-Dedicated developer with a strong focus on building intelligent systems. Currently specializing in the intersection of Web Technologies and Data Intelligence.
+
 
 - 🎓 **Focusing on:** Data Science, Artificial Intelligence, and Machine Learning.
 - 🔭 **Current Goal:** Developing predictive models and deep learning architectures.
