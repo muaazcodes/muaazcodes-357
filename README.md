@@ -56,7 +56,7 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117&count_private=true" width="48%" />
+  <img srchttps://github.com/muaazcodes="username=muaazcodes&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muaazcodes&layout=compact&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" width="45%" />
 </p>
 
