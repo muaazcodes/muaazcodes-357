@@ -33,5 +33,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></p>
   
-  <img src="https://komarev.com/ghpvc/?username=muaazcodes&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+  
