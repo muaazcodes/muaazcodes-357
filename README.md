@@ -1,72 +1,47 @@
+# 👨‍💻 Muaaz | Data Science & AI Enthusiast
+
 <div align="center">
-  <h1>Hi 👋, I'm Muaaz Bin Tariq</h1>
-  <p><strong>Data Science | AI & Machine Learning Engineer</strong></p>
-  <p><i>Specializing in Predictive Modeling, Neural Networks, and Scalable Data Solutions.</i></p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=muaazcodes&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/muaaz-tariq"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+## 🎯 Profile Overview
+Dedicated developer with a strong focus on building intelligent systems. Currently specializing in the intersection of Web Technologies and Data Intelligence.
+
+- 🎓 **Focusing on:** Data Science, Artificial Intelligence, and Machine Learning.
+- 🔭 **Current Goal:** Developing predictive models and deep learning architectures.
+- 🤝 **Collaboration:** Open for data-driven projects and AI research initiatives.
+- ⚡ **Fun Fact:** I believe data tells stories if you listen closely enough.
 
 ---
 
-### 🏆 Professional Achievements
+## 🛠 Technical Expertise
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+## 📈 GitHub Performance
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muaazcodes&theme=tokyonight&no-bg=true&margin-w=15" alt="muaazcodes trophies" /></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaazcodes&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 ---
 
-### 🧬 Professional Overview
-- 🔭 **Current Focus:** Developing end-to-end Machine Learning pipelines and NLP applications.
-- 👯 **Collaboration:** Open to high-impact AI research and open-source contributions.
-- ⚡ **Key Interests:** Computer Vision, Big Data Analytics, and Reinforcement Learning.
-- 💬 **Ask me about:** Pythonic Data Science, Model Optimization, and Feature Engineering.
-
----
-
-### 💻 Technical Stack
-
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="33%">
-      <strong>🧠 AI & Machine Learning</strong><br />
-      • Scikit-Learn / TensorFlow<br />
-      • Pandas / NumPy / Matplotlib<br />
-      • Deep Learning / Neural Nets<br />
-      • Statistical Modeling
-    </td>
-    <td align="left" width="33%">
-      <strong>🛠️ Engineering & Tools</strong><br />
-      • <b>Python</b> (Primary Language)<br />
-      • <b>C++ / Java</b> (Algorithms)<br />
-      • <b>MySQL</b> (Data Management)<br />
-      • <b>Linux / Git</b> (DevOps)
-    </td>
-    <td align="left" width="33%">
-      <strong>🚀 Hardware & Others</strong><br />
-      • <b>Arduino</b> (Embedded AI)<br />
-      • <b>IoT Systems</b><br />
-      • <b>PyCharm / IntelliJ</b><br />
-      • <b>Data Visualization</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Analytics
+## 🌐 Connect & Socials
 <p align="center">
-  <img srchttps://github.com/muaazcodes="username=muaazcodes&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muaazcodes&layout=compact&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" width="45%" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muaazcodes&theme=transparent&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideLabels=ffffff" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Data is the new oil, but AI is the refinery."</i><br />
-  🚀 <b>Always building the future with data.</b>
+  <img src="https://komarev.com/ghpvc/?username=muaazcodes&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
