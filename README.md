@@ -21,9 +21,10 @@
 
 ## 📈 GitHub Performance
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaazcodes&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muaazcodes&show_icons=true&theme=dark&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaazcodes&layout=compact&theme=dark&title_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
 </p>
+
 
 ---
 
